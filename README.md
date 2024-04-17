@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Es una prueba Modula 2 henry
+Esta es una pruebo de Github Modulo 2.
